@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AH086M555003-T_
+D UWB SMD antenna, 3-8GHz
+K UWB, antenna, rf
+F /home/krille/cloudy/Kicad/my_docs/chipantenna01_e-587795.pdf
+$ENDCMP
+#
+$CMP antenna
+D Antenna symbol
+K UWB, antenna, rf
+F /home/krille/cloudy/Kicad/my_docs/chipantenna01_e-587795.pdf
+$ENDCMP
+#
+$CMP antenna_2
+D Antenna symbol
+K UWB, antenna, rf
+F /home/krille/cloudy/Kicad/my_docs/chipantenna01_e-587795.pdf
+$ENDCMP
+#
+#End Doc Library

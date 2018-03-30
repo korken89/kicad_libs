@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RangeLink_con
+D Header for the rangelink
+$ENDCMP
+#
+$CMP TEST_1P
+D point
+K point tp
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB USB_A
+$ENDCMP
+#
+$CMP USB_A_SMD_Receptacle
+D USB Type A connector
+K connector USB USB_A
+$ENDCMP
+#
+#End Doc Library

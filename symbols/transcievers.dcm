@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP dw1000
+D DW1000 UWB transceivers with accurate timestamps
+K transciever, rf, UWB
+F ../documents/dw1000-datasheet-v2.08.pdf
+$ENDCMP
+#
+#End Doc Library

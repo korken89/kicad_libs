@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LSM6DS3H
+D Mems accelerometer, gyro, 6 Axis
+K Accelerometer, IMU, Gyro
+$ENDCMP
+#
+$CMP LSM6DSM
+D Mems accelerometer, gyro, 6 Axis
+K Accelerometer, IMU, Gyro
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# INA1x9
+#
+DEF INA1x9 U 0 40 Y Y 1 F N
+F0 "U" 0 200 60 H V C CNN
+F1 "INA1x9" 0 300 60 H V C CNN
+F2 "SOT:SOT-23-5-2.7x1.9mm" 0 500 60 H I C CNN
+F3 "http://www.ti.com/lit/ds/symlink/ina139.pdf" 0 400 60 H I C CNN
+F4 "INA139" 0 600 60 H I C CNN "MFPN"
+DRAW
+S -300 150 300 -150 0 1 0 f
+X OUT 1 500 -50 200 L 50 50 1 1 I
+X GND 2 0 -350 200 U 50 50 1 1 I
+X VIN+ 3 -500 50 200 R 50 50 1 1 I
+X VIN- 4 500 50 200 L 50 50 1 1 I
+X V+ 5 -500 -50 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

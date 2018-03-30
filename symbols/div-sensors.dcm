@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LIS3DE
+D Accelerometer 3axis, 6uA, SPI, I2C
+K Accelerometer, sensor, IMU, SPI, I2C
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/10/aa/64/5a/f1/cc/49/7f/DM00066267/files/DM00066267.pdf/jcr:content/translations/en.DM00066267.pdf
+$ENDCMP
+#
+#End Doc Library

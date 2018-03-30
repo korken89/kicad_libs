@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FAN5362
+D 3Mhz, 500/750mA Synchronous Buck Regulator
+K DCDC, Buck, Step-Down, dc-dc, regulator, 3v3
+$ENDCMP
+#
+$CMP LP2992IM5-3.3
+D DC-DC, Low Dropout regulator. Fixed output 3V3
+K DCDC, LDO, dcdc, 3V3, 
+$ENDCMP
+#
+$CMP LXDC2HL
+D DCDC regulator, very small. dw1000 analog pins
+K dw1000, DCDC, small
+$ENDCMP
+#
+#End Doc Library

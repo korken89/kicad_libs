@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ft2232d
+D USB to Dual UART bridge
+K usb, dual, uart, ftdi
+F /home/krille/cloudy/Kicad/my_docs/DS_FT2232D.pdf
+$ENDCMP
+#
+$CMP ft2232d-48lgfp
+D dual USB to UART bridge from ftdi
+K USB, UART
+$ENDCMP
+#
+#End Doc Library
