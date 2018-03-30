@@ -31,7 +31,7 @@
   (pad 1 thru_hole circle (at 3.56 -0.05 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 2.3 2.1 270) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at -2.3 2.1 270) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/usbpcb.pretty/CUI_UP2-AH-1-TH.step
+  (model ${KIPRJMOD}/kicad_libs/3dmodels/step/CUI_UP2-AH-1-TH.step
     (offset (xyz 0 -19.9 -1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
