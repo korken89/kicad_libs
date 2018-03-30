@@ -1,4 +1,4 @@
-(module Resonator_3pin_3.2x1.3mm (layer F.Cu) (tedit 5AB92CE8)
+(module Resonator_3pin_3.2x1.3mm (layer F.Cu) (tedit 5ABE4FA4)
   (fp_text reference REF** (at 0 -1.5) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.13)))
   )
@@ -25,7 +25,7 @@
   (pad 1 smd oval (at -1.2 0) (size 0.4 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd oval (at 0 0) (size 0.4 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd oval (at 1.2 0) (size 0.4 1.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/ubmp.pretty/resonator_CSTCE.stp
+  (model ${KIPRJMOD}/kicad_libs/3dmodels/step/resonator_CSTCE.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

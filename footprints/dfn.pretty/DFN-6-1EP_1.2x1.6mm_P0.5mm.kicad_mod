@@ -1,4 +1,4 @@
-(module DFN-6-1EP_1.2x1.6mm_P0.5mm (layer F.Cu) (tedit 5ABBF386)
+(module DFN-6-1EP_1.2x1.6mm_P0.5mm (layer F.Cu) (tedit 5ABE51CF)
   (descr "DC6 Package; 6-Lead Plastic DFN (2mm x 2mm) (see Linear Technology DFN_6_05-08-1703.pdf)")
   (tags "DFN 0.5")
   (attr smd)
@@ -28,7 +28,7 @@
   (pad 4 smd roundrect (at 0.725 0.5) (size 0.6 0.28) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.5))
   (pad 5 smd roundrect (at 0.725 0) (size 0.6 0.28) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.5))
   (pad 6 smd roundrect (at 0.725 -0.5) (size 0.6 0.28) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.5))
-  (model ${KIPRJMOD}/ubmp.pretty/SOT563.step
+  (model ${KIPRJMOD}/kicad_libs/3dmodels/step/SOT563.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
