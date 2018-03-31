@@ -37,12 +37,12 @@
   (pad 2 thru_hole oval (at -15.24 -5.08 270) (size 1.524 2.286) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at -15.24 -7.62 270) (size 1.524 2.286) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (model :MY_3D:female_header_1x7-2.54.wrl
-    (at (xyz -0.5984251968503937 0 0.1023622047244095))
+    (offset (xyz -15.19999977171891 0 2.599999960951919))
     (scale (xyz 3.54 3.54 3.54))
     (rotate (xyz -90 0 90))
   )
   (model :MY_3D:female_header_1x7-2.54.wrl
-    (at (xyz 0.5984251968503937 0 0.1023622047244095))
+    (offset (xyz 15.19999977171891 0 2.599999960951919))
     (scale (xyz 3.54 3.54 3.54))
     (rotate (xyz -90 0 90))
   )

@@ -37,12 +37,12 @@
   (pad 13 thru_hole oval (at 10.16 -5.08 270) (size 1.524 2.286) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole oval (at 10.16 -7.62 270) (size 1.524 2.286) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (model Pin_Headers.3dshapes/Pin_Header_Straight_1x07.wrl
-    (at (xyz -0.4 0 -0.07000000000000001))
+    (offset (xyz -10.15999984741211 0 -1.777999973297119))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 90))
   )
   (model Pin_Headers.3dshapes/Pin_Header_Straight_1x07.wrl
-    (at (xyz 0.4 0 -0.07000000000000001))
+    (offset (xyz 10.15999984741211 0 -1.777999973297119))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 90))
   )

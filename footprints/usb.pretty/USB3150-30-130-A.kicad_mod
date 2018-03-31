@@ -31,7 +31,7 @@
   (pad "" thru_hole circle (at 2.8 -1.04) (size 1 1) (drill 0.8) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -2.8 -1.04) (size 1 1) (drill 0.8) (layers *.Cu *.Mask))
   (model ${PERSONAL}/models/USB3150-30-130-X_revA.wrl
-    (at (xyz 0 0.01181102362204724 0.1574803149606299))
+    (offset (xyz 0 0.2999999954944519 3.999999939926027))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz -90 0 0))
   )

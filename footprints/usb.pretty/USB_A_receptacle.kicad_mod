@@ -33,7 +33,7 @@
   (pad 3 smd rect (at 1 0) (size 0.8 2.82) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 3.5 0) (size 0.8 2.82) (layers F.Cu F.Paste F.Mask))
   (model ${PERSONAL}/models/USB-A-Connector.wrl
-    (at (xyz 0 -0.4527559055118111 0))
+    (offset (xyz 0 -11.49999982728733 0))
     (scale (xyz 320 320 320))
     (rotate (xyz -90 0 0))
   )
