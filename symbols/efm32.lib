@@ -4,11 +4,11 @@ EESchema-LIBRARY Version 2.4
 # EFM32HG10
 #
 DEF EFM32HG10 U 0 40 Y Y 1 F N
-F0 "U" -200 -650 60 H V C CNN
+F0 "U" 0 -650 60 H V C CNN
 F1 "EFM32HG10" 0 700 60 H V C CNN
-F2 "Housings_DFN_QFN:QFN-24-1EP_5x5mm_Pitch0.65mm" 0 -850 60 H I C CNN
-F3 "https://www.silabs.com/documents/public/data-sheets/EFM32HG108.pdf" 50 -950 60 H I C CNN
-F4 "EFM32HG108F32G-B-QFN24 " 50 -1050 60 H I C CNN "MFPN"
+F2 "Housings_DFN_QFN:QFN-24-1EP_5x5mm_Pitch0.65mm" 0 850 60 H I C CNN
+F3 "https://www.silabs.com/documents/public/data-sheets/EFM32HG108.pdf" 0 950 60 H I C CNN
+F4 "EFM32HG108F32G-B-QFN24 " 0 1050 60 H I C CNN "MFPN"
 DRAW
 S -350 600 400 -600 0 1 0 f
 X PA0 1 -550 550 200 R 50 50 1 1 B
