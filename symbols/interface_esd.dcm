@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IP4256CZ5-W
+D Dual channel filter with esd protection
+K ESD, Dual, Filter, passive
+$ENDCMP
+#
 $CMP NUF8401MNT4G
 D NUF8401MNT4G ESD filter
 F http://www.onsemi.com/pub/Collateral/NUF8401MN-D.PDF
