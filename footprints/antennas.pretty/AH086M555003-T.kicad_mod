@@ -1,4 +1,4 @@
-(module AH086M555003-T (layer F.Cu) (tedit 56E0335D)
+(module AH086M555003-T (layer F.Cu) (tedit 5ACC6FCF)
   (fp_text reference REF** (at 0.25 2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -17,4 +17,9 @@
   (pad "" smd rect (at 1.8 0) (size 1.1 1.1) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -1.8 0) (size 1.1 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 0) (size 1.1 1.1) (layers F.Cu F.Paste F.Mask))
+  (model ${SHARED}/3dmodels/step/uwb-chip-antenna.step
+    (offset (xyz 0 4 0.5))
+    (scale (xyz 0.7 1 0.8))
+    (rotate (xyz -90 0 0))
+  )
 )
