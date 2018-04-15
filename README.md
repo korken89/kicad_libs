@@ -6,6 +6,14 @@ link to their datasheet, contain a MPN (Manufacturer Part Number) and a link to 
 
 All footprints should also have a 3d model in step, and may also contain a wrl model.
 
+Either use this lib by pointing to the folder and adding the environment variable
+
+`${SHARED}: /path/to/this/kicad_libs/`
+
+or directly as a submodule in the root folder of the project, command:
+
+`git submodule add -b master git@github.com:korken89/kicad_libs.git`
+
 ## Layers and text
 
 ### Reference
@@ -30,6 +38,11 @@ Directly as a submodule in the project, command:
 
 ## 3D Model path
 
-Use this prefix:
+There are two recommended ways of adding this lib, either by having it on disk and setting the ${SHARED}
+environment variable towards this libs root folder.
 
-`${KIPRJMOD}/kicad_libs/3dmodels/step`
+Or by having the entire lib as a subproject, these two version means that all footprints should have
+two 3d model paths:
+
+`${KIPRJMOD}/kicad_libs/3dmodels/step/model.stp`
+`${SHARED}/3dmodels/step/model.stp`
