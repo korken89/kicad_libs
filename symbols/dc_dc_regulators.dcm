@@ -7,7 +7,7 @@ $ENDCMP
 #
 $CMP LP2992IM5-3.3
 D DC-DC, Low Dropout regulator. Fixed output 3V3
-K DCDC, LDO, dcdc, 3V3, 
+K DCDC, LDO, dcdc, 3V3,
 $ENDCMP
 #
 $CMP LXDC2HL
