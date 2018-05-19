@@ -1,4 +1,4 @@
-(module HHM1595A1 (layer F.Cu) (tedit 5AFFFB15)
+(module HHM1595A1 (layer F.Cu) (tedit 5AFFFB3A)
   (fp_text reference %R (at 0 -1.5 180) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.13)))
   )
@@ -28,9 +28,9 @@
   (pad 6 smd oval (at 0.648734 -0.647604 270) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd oval (at 0.648734 0.002396 270) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd oval (at 0.648734 0.652396 270) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
-  (model Housings_DFN_QFN.3dshapes/DFN-6-1EP_2x2mm_Pitch0.5mm.wrl
+  (model ${KIPRJMOD}/kicad_libs/3dmodels/step/HHM1595A1.step
     (at (xyz 0 0 0))
-    (scale (xyz 1 0.9 1))
-    (rotate (xyz 0 0 90))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
