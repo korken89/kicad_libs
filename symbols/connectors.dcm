@@ -25,4 +25,10 @@ D USB Type A connector
 K connector USB USB_A
 $ENDCMP
 #
+$CMP tag-connect-swd
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 #End Doc Library

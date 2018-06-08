@@ -9,7 +9,6 @@ $ENDCMP
 $CMP antenna
 D Antenna symbol
 K UWB, antenna, rf
-F /home/krille/cloudy/Kicad/my_docs/chipantenna01_e-587795.pdf
 $ENDCMP
 #
 #End Doc Library
