@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:wb001-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -27,7 +28,7 @@ F 5 "0734150991" H 4850 4650 50  0001 C CNN "MPN"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4850 4450 4850 4250
+	4850 4450 4850 4350
 $Comp
 L Device:Antenna AE101
 U 1 1 5AD336A1
@@ -54,4 +55,10 @@ F 3 "" H 4500 4350 50  0001 C CNN
 	1    4500 4350
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	4750 4350 4850 4350
+Connection ~ 4750 4350
+Connection ~ 4850 4350
+Wire Wire Line
+	4850 4350 4850 4250
 $EndSCHEMATC
