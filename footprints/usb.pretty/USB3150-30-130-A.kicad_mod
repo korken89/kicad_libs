@@ -1,8 +1,8 @@
 (module USB3150-30-130-A (layer F.Cu) (tedit 59AE6F84)
-  (fp_text reference REF** (at 0 2.45) (layer F.SilkS)
+  (fp_text reference J101 (at 0 2.45) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.15)))
   )
-  (fp_text value USB3150-30-130-A (at 0 -2.85) (layer F.Fab)
+  (fp_text value USB_OTG (at 0 -2.85) (layer F.Fab)
     (effects (font (size 0.7 0.7) (thickness 0.15)))
   )
   (fp_line (start -3.7 -1.8) (end -3.7 1.3) (layer F.CrtYd) (width 0.15))
@@ -30,9 +30,9 @@
   (pad 6 thru_hole oval (at -3.325 0) (size 1.4 0.8) (drill 0.7) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 2.8 -1.04) (size 1 1) (drill 0.8) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -2.8 -1.04) (size 1 1) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${PERSONAL}/models/USB3150-30-130-X_revA.wrl
-    (offset (xyz 0 0.2999999954944519 3.999999939926027))
-    (scale (xyz 0.4 0.4 0.4))
+  (model ${PERSONAL}/3dmodels/step/USB3150-30-130-X_revA.STEP
+    (offset (xyz 0 0.3 4))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )
