@@ -1,4 +1,4 @@
-(module C_0805 (layer F.Cu) (tedit 5AFFF6AA)
+(module C_0805 (layer F.Cu) (tedit 5BDDC31E)
   (descr "Capacitor,non-polarized,Chip;2.00mm L X 1.25mm W X 0.70mm H")
   (attr smd)
   (fp_text reference %R (at 0 -1.2) (layer F.SilkS)
@@ -21,9 +21,9 @@
   (fp_text user %V (at 0 1.1) (layer F.Fab)
     (effects (font (size 0.4 0.4) (thickness 0.05)))
   )
-  (pad 1 smd roundrect (at -0.8 0) (size 0.95 1.35) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.25))
-  (pad 2 smd roundrect (at 0.8 0) (size 0.95 1.35) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+  (pad 1 smd roundrect (at -0.8 0) (size 0.95 1.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (pad 2 smd roundrect (at 0.8 0) (size 0.95 1.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
