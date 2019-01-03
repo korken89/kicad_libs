@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# NCP716
+#
+DEF NCP716 U 0 40 Y Y 1 F N
+F0 "U" 0 250 50 H V C CNN
+F1 "NCP716" 0 -200 50 H V C CNN
+F2 "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm" 0 -400 50 H I C CNN
+F3 "https://www.onsemi.com/pub/Collateral/NCP716-D.PDF" 0 -300 50 H I C CNN
+DRAW
+S -250 200 250 -150 0 1 0 f
+X VIN 1 -350 150 100 R 50 50 1 1 W
+X GND 2 -350 0 100 R 50 50 1 1 W
+X GND 3 350 0 100 L 50 50 1 1 W
+X VOUT 6 350 150 100 L 50 50 1 1 w
+X GND 7 350 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
