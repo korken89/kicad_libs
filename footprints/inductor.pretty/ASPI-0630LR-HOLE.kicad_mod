@@ -1,4 +1,4 @@
-(module ASPI-0630LR-HOLE (layer F.Cu) (tedit 5C34CBA6)
+(module ASPI-0630LR-HOLE (layer F.Cu) (tedit 5C503D60)
   (attr smd)
   (fp_text reference %R (at -0.025 1.275) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
@@ -22,6 +22,8 @@
   (pad "" np_thru_hole circle (at 2.85 -2.65) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -2.85 2.65 180) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.85 2.65 180) (size 2 2) (drill 2) (layers *.Cu *.Mask))
+  (pad 1 smd roundrect (at -3.8 0) (size 1.6 3.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (pad 2 smd roundrect (at 3.8 0) (size 1.6 3.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (model ${KIPRJMOD}/kicad_libs/3dmodels/step/ASPI-0630LR.STEP
     (offset (xyz 0 0 -0.35))
     (scale (xyz 1 1 1))
