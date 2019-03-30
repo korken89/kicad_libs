@@ -1,4 +1,4 @@
-(module AR0135CS (layer F.Cu) (tedit 5C9F5846)
+(module AR0135CS (layer F.Cu) (tedit 5C9618A3)
   (attr smd)
   (fp_text reference %R (at 0 -5) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.13)))
@@ -33,8 +33,8 @@
   (fp_line (start 2.3 1.7) (end -2.3 1.7) (layer F.Fab) (width 0.15))
   (fp_line (start -2.3 1.7) (end -2.3 -1.7) (layer F.Fab) (width 0.15))
   (fp_circle (center 0 0) (end 0.01 0) (layer F.Fab) (width 0.15))
-  (fp_line (start 2.1 -1.9) (end 2.5 -1.5) (layer F.Fab) (width 0.1))
-  (fp_line (start 2.1 -1.5) (end 2.5 -1.9) (layer F.Fab) (width 0.1))
+  (fp_line (start -2.5 -1.9) (end -2.1 -1.5) (layer F.Fab) (width 0.1))
+  (fp_line (start -2.5 -1.5) (end -2.1 -1.9) (layer F.Fab) (width 0.1))
   (pad B1 smd circle (at -3.5 -2.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad C1 smd circle (at -3.5 -1.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad D1 smd circle (at -3.5 -0.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
@@ -98,7 +98,7 @@
   (pad F8 smd circle (at 3.5 1.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad G8 smd circle (at 3.5 2.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad H8 smd circle (at 3.5 3.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/kicad_libs/3dmodels/step/ar0135cs.step
+  (model ${KIPRJMOD}/../kicad_libs/3dmodels/step/ar0135cs.step
     (offset (xyz 0 0 0.35))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
