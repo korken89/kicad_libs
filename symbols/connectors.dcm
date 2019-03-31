@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 22-pin_FFC_(5051102291)
+D FFC/FPC bottom 22-pin 0.5mm R/A
+K connector
+F https://www.molex.com/pdm_docs/sd/5051102291_sd.pdf
+$ENDCMP
+#
 $CMP Conn_01x04
 D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
