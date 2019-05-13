@@ -19,4 +19,10 @@ $CMP MP3425
 F https://www.monolithicpower.com/pub/media/document/MP3425_r1.1.pdf
 $ENDCMP
 #
+$CMP NCV8114
+D DC-DC, Low Dropout regulator. Fixed output 3V3
+K DCDC, LDO, dcdc, 3V3,
+F https://www.onsemi.com/pub/Collateral/NCV8114-D.PDF
+$ENDCMP
+#
 #End Doc Library
