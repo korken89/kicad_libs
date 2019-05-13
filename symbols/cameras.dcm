@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Boson
+F https://www.flir.com/globalassets/imported-assets/document/boson-engineering-datasheet.pdf
+$ENDCMP
+#
 $CMP MT9V034
 F https://www.onsemi.com/pub/Collateral/MT9V034-D.PDF
 $ENDCMP
