@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP EMI8143
+D 6-ch ESD and Common Mode Choke for USB3 / MIPI / CSI
+F https://www.onsemi.com/pub/Collateral/EMI8141-D.PDF
+$ENDCMP
+#
 $CMP IP4256CZ5-W
 D Dual channel filter with esd protection
 K ESD, Dual, Filter, passive

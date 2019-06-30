@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 16-pin_FFC_(SFV16R)
+D FFC/FPC bottom 16-pin 0.5mm R/A
+K connector
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf
+$ENDCMP
+#
 $CMP 22-pin_FFC_(5051102291)
 D FFC/FPC bottom 22-pin 0.5mm R/A
 K connector
@@ -21,6 +27,12 @@ D point
 K point tp
 $ENDCMP
 #
+$CMP USB3_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
 $CMP USB_A
 D USB Type A connector
 K connector USB USB_A
@@ -29,6 +41,12 @@ $ENDCMP
 $CMP USB_A_SMD_Receptacle
 D USB Type A connector
 K connector USB USB_A
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
 $ENDCMP
 #
 $CMP tag-connect-swd

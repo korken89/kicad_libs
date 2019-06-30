@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FT601Q
+D USB 3.0 to 32-bit synchronous FIFO bridge
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT600Q-FT601Q%20IC%20Datasheet.pdf
+$ENDCMP
+#
 $CMP ft2232d
 D USB to Dual UART bridge
 K usb, dual, uart, ftdi
