@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FAN53541
+F https://www.onsemi.com/pub/Collateral/FAN53541-D.pdf
+$ENDCMP
+#
 $CMP FAN5362
 D 3Mhz, 500/750mA Synchronous Buck Regulator
 K DCDC, Buck, Step-Down, dc-dc, regulator, 3v3
