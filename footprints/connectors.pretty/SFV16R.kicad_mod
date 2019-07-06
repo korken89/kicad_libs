@@ -1,4 +1,4 @@
-(module SFV16R (layer F.Cu) (tedit 5D177590)
+(module SFV16R (layer F.Cu) (tedit 5D2098C0)
   (fp_text reference %R (at 0 -3.9) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.13)))
   )
