@@ -1,4 +1,4 @@
-(module WLSCP-50-2.956x3.226mm_nRF52832 (layer F.Cu) (tedit 5D234CBE)
+(module WLSCP-50-2.956x3.226mm_nRF52832 (layer F.Cu) (tedit 5D25A96B)
   (fp_text reference %R (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.13)))
   )
@@ -68,4 +68,9 @@
   (pad F7 smd circle (at 1.2 0.6) (size 0.188 0.188) (layers F.Cu F.Paste F.Mask))
   (pad G7 smd circle (at 1.2 1) (size 0.188 0.188) (layers F.Cu F.Paste F.Mask))
   (pad H7 smd circle (at 1.2 1.4) (size 0.188 0.188) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/ucBGA-49_3x3mm_Layout7x7_P0.4mm.step
+    (offset (xyz 0 0 -0.08))
+    (scale (xyz 1 1.1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

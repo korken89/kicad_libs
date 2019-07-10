@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LIS2DH12
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/12/c0/5c/36/b9/58/46/f2/DM00091513.pdf/files/DM00091513.pdf/jcr:content/translations/en.DM00091513.pdf
+$ENDCMP
+#
 $CMP LSM6DS3H
 D Mems accelerometer, gyro, 6 Axis
 K Accelerometer, IMU, Gyro
