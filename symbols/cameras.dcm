@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AR0135CS
+F https://www.onsemi.com/products/sensors/image-sensors-processors/image-sensors/ar0135cs
+$ENDCMP
+#
 $CMP Boson
 F https://www.flir.com/globalassets/imported-assets/document/boson-engineering-datasheet.pdf
 $ENDCMP
