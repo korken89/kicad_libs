@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 12-pin_FFC_(SFV12R)
+D FFC/FPC bottom 12-pin 0.5mm R/A
+K connector
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10116954.pdf
+$ENDCMP
+#
 $CMP 16-pin_FFC_(SFV16R)
 D FFC/FPC bottom 16-pin 0.5mm R/A
 K connector
