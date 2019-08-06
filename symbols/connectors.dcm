@@ -28,6 +28,14 @@ $CMP RangeLink_con
 D Header for the rangelink
 $ENDCMP
 #
+$CMP SOICbite_JTAG
+F https://github.com/SimonMerrett/SOICbite
+$ENDCMP
+#
+$CMP SOICbite_SWD
+F https://github.com/SimonMerrett/SOICbite
+$ENDCMP
+#
 $CMP TEST_1P
 D point
 K point tp
