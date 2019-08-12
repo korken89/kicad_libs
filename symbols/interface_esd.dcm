@@ -15,6 +15,11 @@ D Dual channel filter with esd protection
 K ESD, Dual, Filter, passive
 $ENDCMP
 #
+$CMP NUF6401MNT1
+D NUF6401MNT4G ESD filter
+F https://www.onsemi.cn/pub/Collateral/NUF6401-D.PDF
+$ENDCMP
+#
 $CMP NUF8401MNT4G
 D NUF8401MNT4G ESD filter
 F http://www.onsemi.com/pub/Collateral/NUF8401MN-D.PDF
