@@ -4,4 +4,9 @@ $CMP BAT54
 D Diode
 $ENDCMP
 #
+$CMP BAT54CV
+D Diode
+F https://assets.nexperia.com/documents/data-sheet/BAT54CV.pdf
+$ENDCMP
+#
 #End Doc Library
