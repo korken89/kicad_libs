@@ -199,10 +199,10 @@ ENDDEF
 # RangeLink_con
 #
 DEF RangeLink_con U 0 40 Y Y 1 F N
-F0 "U" 0 -500 60 H V C CNN
-F1 "RangeLink_con" 0 300 60 H V C CNN
-F2 "my_con:RangeLink_Con" -100 -600 60 H V C CNN
-F3 "" 0 0 60 H V C CNN
+F0 "U" 0 -500 50 H V C CNN
+F1 "RangeLink_con" 0 300 50 H V C CNN
+F2 "my_con:RangeLink_Con" -100 -600 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
 DRAW
 S -250 250 250 -450 0 1 0 f
 X 5v 1 -450 200 200 R 50 50 1 1 I
@@ -311,7 +311,7 @@ F0 "P" 200 -200 50 H V C CNN
 F1 "USB_A" -50 200 50 H V C CNN
 F2 "connectors:USB_A_receptacle" -50 300 50 H I C CNN
 F3 "" -50 -100 50 V V C CNN
-F4 "1001-002-01100" -50 400 60 H I C CNN "MFPN"
+F4 "1001-002-01100" -50 400 50 H I C CNN "MFPN"
 $FPLIST
  USB*
 $ENDFPLIST
@@ -336,7 +336,7 @@ F0 "P" 200 -200 50 H V C CNN
 F1 "USB_A_SMD_Receptacle" -50 200 50 H V C CNN
 F2 "connectors:USB_A_receptacle" -50 300 50 H I C CNN
 F3 "" -50 -100 50 V V C CNN
-F4 "1001-002-01100" -50 400 60 H I C CNN "MFPN"
+F4 "1001-002-01100" -50 400 50 H I C CNN "MFPN"
 $FPLIST
  USB*
 $ENDFPLIST
@@ -357,10 +357,10 @@ ENDDEF
 # dwm1000_pinout
 #
 DEF dwm1000_pinout U 0 40 Y Y 1 F N
-F0 "U" 50 -650 60 H V C CNN
-F1 "dwm1000_pinout" 0 650 60 H V C CNN
-F2 "" -550 250 60 H I C CNN
-F3 "" -550 250 60 H I C CNN
+F0 "U" 50 -650 50 H V C CNN
+F1 "dwm1000_pinout" 0 650 50 H V C CNN
+F2 "" -550 250 50 H I C CNN
+F3 "" -550 250 50 H I C CNN
 DRAW
 S -350 600 400 -600 0 1 0 N
 X EXTON 1 -550 550 200 R 50 50 1 1 I
@@ -441,10 +441,10 @@ ENDDEF
 # swd
 #
 DEF swd J 0 40 Y Y 1 F N
-F0 "J" -100 -350 60 H V C CNN
-F1 "swd" 0 400 60 H V C CNN
-F2 "" 0 0 60 H V C CNN
-F3 "" 0 0 60 H V C CNN
+F0 "J" -100 -350 50 H V C CNN
+F1 "swd" 0 400 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
 DRAW
 S -50 250 50 -250 0 1 0 f
 X 3V3 1 -200 200 200 R 50 50 1 1 I
@@ -458,11 +458,11 @@ ENDDEF
 # swd-4
 #
 DEF swd-4 J 0 40 Y Y 1 F N
-F0 "J" -100 -350 60 H V C CNN
-F1 "swd-4" 0 250 60 H V C CNN
-F2 "connectors:jst-sh-hor-4" -200 -450 60 H V C CNN
-F3 "" 0 0 60 H V C CNN
-F4 "Value" 0 0 60 H I C CNN "MFPN"
+F0 "J" -100 -350 50 H V C CNN
+F1 "swd-4" 0 250 50 H V C CNN
+F2 "connectors:jst-sh-hor-4" -200 -450 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 50 H I C CNN "MFPN"
 DRAW
 S -50 150 50 -250 0 1 0 f
 X Mechanical 0 50 -350 100 U 50 0 1 1 I
@@ -503,10 +503,10 @@ ENDDEF
 # wfm1000_pinout
 #
 DEF wfm1000_pinout U 0 40 Y Y 1 F N
-F0 "U" 50 -650 60 H V C CNN
-F1 "wfm1000_pinout" 0 650 60 H V C CNN
-F2 "" -550 250 60 H I C CNN
-F3 "" -550 250 60 H I C CNN
+F0 "U" 50 -650 50 H V C CNN
+F1 "wfm1000_pinout" 0 650 50 H V C CNN
+F2 "" -550 250 50 H I C CNN
+F3 "" -550 250 50 H I C CNN
 DRAW
 S -350 600 400 -600 0 1 0 N
 X EXTON 1 -550 550 200 R 50 50 1 1 I
