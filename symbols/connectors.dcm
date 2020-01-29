@@ -30,6 +30,18 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP Conn_01x08
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x10
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP RangeLink_con
 D Header for the rangelink
 $ENDCMP
