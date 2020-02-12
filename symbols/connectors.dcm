@@ -54,6 +54,18 @@ $CMP SOICbite_SWD
 F https://github.com/SimonMerrett/SOICbite
 $ENDCMP
 #
+$CMP SerialRS422_In
+D RJ45 connector
+K RJ45 female connector
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0051.pdf
+$ENDCMP
+#
+$CMP SerialRS422_Out
+D RJ45 connector
+K RJ45 female connector
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0051.pdf
+$ENDCMP
+#
 $CMP TEST_1P
 D point
 K point tp
