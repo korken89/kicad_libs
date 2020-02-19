@@ -19,6 +19,10 @@ D DCDC regulator, very small. dw1000 analog pins
 K dw1000, DCDC, small
 $ENDCMP
 #
+$CMP MAX17505
+F https://datasheets.maximintegrated.com/en/ds/MAX17505.pdf
+$ENDCMP
+#
 $CMP MP3425
 F https://www.monolithicpower.com/pub/media/document/MP3425_r1.1.pdf
 $ENDCMP
