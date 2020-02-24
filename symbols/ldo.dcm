@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NCP161AMX300TBG
+F https://www.onsemi.com/pub/Collateral/NCP161-D.PDF
+$ENDCMP
+#
 #End Doc Library
