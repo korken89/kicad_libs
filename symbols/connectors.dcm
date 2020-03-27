@@ -54,6 +54,10 @@ $CMP SOICbite_SWD
 F https://github.com/SimonMerrett/SOICbite
 $ENDCMP
 #
+$CMP SOICbite_SWD_PinHeader
+F https://github.com/SimonMerrett/SOICbite
+$ENDCMP
+#
 $CMP SerialRS422_In
 D RJ45 connector
 K RJ45 female connector
