@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MIC5259
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5259.pdf
+$ENDCMP
+#
 $CMP NCP161AMX300TBG
 F https://www.onsemi.com/pub/Collateral/NCP161-D.PDF
 $ENDCMP
