@@ -1,4 +1,4 @@
-(module UDFN-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5E5662E4)
+(module UDFN-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5E79CE37)
   (descr UDFN-4_1x1mm_P0.65mm)
   (tags UDFN-4_1x1mm_P0.65mm)
   (attr smd)
@@ -22,7 +22,7 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.2 0.2) (thickness 0.03)))
   )
-  (pad 5 smd rect (at 0 0 315) (size 0.48 0.48) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd roundrect (at 0 0 315) (size 0.48 0.48) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd custom (at -0.475 0.35) (size 0.07 0.19) (layers F.Cu F.Paste F.Mask)
     (options (clearance outline) (anchor rect))
     (primitives
