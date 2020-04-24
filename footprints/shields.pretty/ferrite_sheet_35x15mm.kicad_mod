@@ -1,4 +1,4 @@
-(module ferrite_sheet_35x15mm (layer F.Cu) (tedit 5EA1A37D)
+(module ferrite_sheet_35x15mm (layer F.Cu) (tedit 5EA29125)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -20,9 +20,9 @@
   (fp_line (start 17.5 7.5) (end 15 7.5) (layer F.SilkS) (width 0.15))
   (fp_line (start 15 -7.5) (end 17.5 -7.5) (layer F.SilkS) (width 0.15))
   (fp_line (start 17.5 -7.5) (end 17.5 -5) (layer F.SilkS) (width 0.15))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-100_9.0x9.0mm_Layout10x10_P0.8mm.step
-    (offset (xyz 0 0 -0.2))
-    (scale (xyz 3.9 1.68 0.4))
+  (model ${KIPRJMOD}/kicad_libs/3dmodels/step/ferrite_sheet_35x15mm.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
