@@ -17,4 +17,9 @@ K Crystal Clock Oscillator
 F https://www.sitime.com/datasheet/SiT1533
 $ENDCMP
 #
+$CMP SIT1533AC-H5-DCC-32.768E
+K Crystal Clock Oscillator
+F https://www.sitime.com/datasheet/SiT1533
+$ENDCMP
+#
 #End Doc Library
