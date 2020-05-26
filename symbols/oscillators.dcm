@@ -12,11 +12,6 @@ K oscillator, crystal, 38.4
 F /home/krille/cloudy/kicad-new/documents/ASTXR-12-38.400MHz-514054-T.pdf
 $ENDCMP
 #
-$CMP SIT1533AC-H5-D14-32.768D
-K Crystal Clock Oscillator
-F https://www.sitime.com/datasheet/SiT1533
-$ENDCMP
-#
 $CMP SIT1533AC-H5-DCC-32.768E
 K Crystal Clock Oscillator
 F https://www.sitime.com/datasheet/SiT1533
