@@ -6,4 +6,8 @@ K ETH PHY RMII
 F http://ww1.microchip.com/downloads/en/DeviceDoc/00002202C.pdf
 $ENDCMP
 #
+$CMP KSZ8863
+F https://ww1.microchip.com/downloads/en/DeviceDoc/00002335B.pdf
+$ENDCMP
+#
 #End Doc Library
