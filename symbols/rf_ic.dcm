@@ -1,3 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DW31x0
+F https://www.decawave.com/product/decawave-dw3000-ic/
+$ENDCMP
+#
+$CMP DW32x0
+F https://www.decawave.com/product/decawave-dw3000-ic/
+$ENDCMP
+#
 #End Doc Library
