@@ -8,4 +8,8 @@ $CMP DW32x0
 F https://www.decawave.com/product/decawave-dw3000-ic/
 $ENDCMP
 #
+$CMP ISP3010
+F https://www.insightsip.com/fichiers_insightsip/pdf/ble/ISP3010/ISP3010_TG_Schematic.pdf
+$ENDCMP
+#
 #End Doc Library
