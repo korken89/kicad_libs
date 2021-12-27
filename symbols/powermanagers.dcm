@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LTC4160
-D Switching power and battery manager with usb OTG and Overvoltage protection
-K charger, USB, power, battery, li-ion
-$ENDCMP
-#
-#End Doc Library

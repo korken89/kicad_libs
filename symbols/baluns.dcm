@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP HHM1595a1
-D Balun 3000-8000MHz
-K balun, uwb, rf , GHz
-$ENDCMP
-#
-#End Doc Library
