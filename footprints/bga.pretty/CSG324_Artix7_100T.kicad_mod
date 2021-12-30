@@ -575,7 +575,7 @@
     (die_length 15.015483))
   (pad A1 smd circle (at -6.8 -6.8) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask)
     (die_length 15.214261))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-324_15.0x15.0mm_Layout18x18_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-324_15.0x15.0mm_Layout18x18_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

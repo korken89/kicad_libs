@@ -27,7 +27,7 @@
   (pad 5 smd roundrect (at -0.75 0) (size 0.7 0.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 3 smd roundrect (at 0.675 0.725) (size 0.55 0.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 4 smd roundrect (at -0.675 0.725) (size 0.55 0.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm.step
+  (model ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm.step
     (at (xyz 0 0 0))
     (scale (xyz 0.3 0.4 0.3))
     (rotate (xyz 0 0 0))

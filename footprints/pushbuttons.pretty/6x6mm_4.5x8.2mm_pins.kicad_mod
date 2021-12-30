@@ -24,7 +24,7 @@
   (pad 1 smd roundrect (at -4.1 -2.25) (size 2.5 1.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at -4.1 2.25) (size 2.5 1.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at 4.1 2.25) (size 2.5 1.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_Omron_B3FS-105xP.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Omron_B3FS-105xP.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

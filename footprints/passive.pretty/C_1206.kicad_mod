@@ -22,7 +22,7 @@
   (fp_line (start -1.6 -0.775) (end -1.6 0.775) (layer F.Fab) (width 0.15))
   (pad 1 smd roundrect (at -1.4 0) (size 1 1.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at 1.4 0) (size 1 1.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step
+  (model ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

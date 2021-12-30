@@ -262,7 +262,7 @@
   (pad U19 smd circle (at 4.5 3.5) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
   (pad V19 smd circle (at 4.5 4) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
   (pad W19 smd circle (at 4.5 4.5) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/UFBGA-144_10x10mm_Layout12x12_P0.8mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-144_10x10mm_Layout12x12_P0.8mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

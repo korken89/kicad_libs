@@ -15,7 +15,7 @@
   (pad 2 smd roundrect (at -2.54 0) (size 1.6 2.5) (layers F.Cu F.Mask)(roundrect_rratio 0.25))
   (pad 6 smd roundrect (at 5.08 0) (size 1.6 2.5) (layers B.Cu B.Mask)(roundrect_rratio 0.25))
   (pad 10 smd roundrect (at -5.08 0) (size 1.6 2.5) (layers B.Cu B.Mask)(roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.step
+  (model ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.step
     (offset (xyz 5.1 -2.3 0.4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -90 90))

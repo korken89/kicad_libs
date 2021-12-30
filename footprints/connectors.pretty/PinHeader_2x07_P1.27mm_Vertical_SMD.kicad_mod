@@ -83,7 +83,7 @@
   (pad 12 smd roundrect (at 1.95 2.54) (size 2.4 0.74) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 13 smd roundrect (at -1.95 3.81) (size 2.4 0.74) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 14 smd roundrect (at 1.95 3.81) (size 2.4 0.74) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x07_P1.27mm_Vertical_SMD.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x07_P1.27mm_Vertical_SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

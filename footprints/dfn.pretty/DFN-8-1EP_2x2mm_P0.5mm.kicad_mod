@@ -30,7 +30,7 @@
   (pad 6 smd roundrect (at 1 0.25) (size 0.7 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 7 smd roundrect (at 1 -0.25) (size 0.7 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 8 smd roundrect (at 1 -0.75) (size 0.7 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

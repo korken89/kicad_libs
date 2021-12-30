@@ -173,7 +173,7 @@
   (pad 101 smd roundrect (at -4.225 0 180) (size 1.95 2.35) (layers F.Cu F.Mask) (roundrect_rratio 0.05))
   (pad 100 smd roundrect (at -4.225 -2.85 180) (size 1.95 2.35) (layers F.Cu F.Mask) (roundrect_rratio 0.05))
   (pad 99 smd roundrect (at -1.775 -2.85 180) (size 1.95 2.35) (layers F.Cu F.Mask) (roundrect_rratio 0.05))
-  (model ${KISYS3DMOD}/Package_LGA.3dshapes/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y.step
     (at (xyz 0 0 0))
     (scale (xyz 4.7 4.7 1))
     (rotate (xyz 0 0 0))

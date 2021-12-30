@@ -82,7 +82,7 @@
   (pad 25 smd oval (at 2.9 2.2) (size 0.8 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd oval (at -2.2 2.9 90) (size 0.8 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd oval (at -2.9 -2.2) (size 0.8 0.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/UQFN-48-1EP_6x6mm_P0.4mm_EP4.45x4.45mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-48-1EP_6x6mm_P0.4mm_EP4.45x4.45mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

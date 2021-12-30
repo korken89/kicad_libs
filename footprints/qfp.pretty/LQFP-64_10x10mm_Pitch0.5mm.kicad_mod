@@ -93,7 +93,7 @@
   (pad 3 smd oval (at -5.7 -2.75) (size 1 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd oval (at -5.7 -3.25) (size 1 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd oval (at -5.7 -3.75) (size 1 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

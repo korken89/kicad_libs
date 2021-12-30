@@ -36,7 +36,7 @@
   (pad 12 smd roundrect (at 0.725 -1.25) (size 0.65 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.5))
   (pad 13 smd roundrect (at 0 0) (size 0.34 2.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25)
     (solder_paste_margin -0.1))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/TDFN-12_2x3mm_P0.5mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TDFN-12_2x3mm_P0.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 0.9 1 1))
     (rotate (xyz 0 0 0))

@@ -43,7 +43,7 @@
   (pad 6 smd roundrect (at 0.25 0.7625 90) (size 0.325 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 11 smd roundrect (at 0.25 -0.7625 90) (size 0.325 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 12 smd roundrect (at -0.25 -0.7625 90) (size 0.325 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Package_LGA.3dshapes/LGA-12_2x2mm_P0.5mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-12_2x2mm_P0.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

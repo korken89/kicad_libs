@@ -423,7 +423,7 @@
   (pad V20 smd circle (at 7.6 6) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad W20 smd circle (at 7.6 6.8) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad Y20 smd circle (at 7.6 7.6) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-256_17.0x17.0mm_Layout16x16_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-256_17.0x17.0mm_Layout16x16_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

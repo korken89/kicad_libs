@@ -77,7 +77,7 @@
   (pad H11 smd circle (at 0.6 1.211) (size 0.22 0.22) (layers F.Cu F.Paste F.Mask))
   (pad H7 smd circle (at -0.2 1.211) (size 0.22 0.22) (layers F.Cu F.Paste F.Mask))
   (pad H15 smd circle (at 1.4 1.211) (size 0.22 0.22) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1.05 0.96 1))
     (rotate (xyz 0 0 0))

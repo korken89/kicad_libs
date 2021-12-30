@@ -45,7 +45,7 @@
   (pad E3 smd circle (at 0.2 0.8 270) (size 0.21 0.21) (layers F.Cu F.Paste F.Mask))
   (pad E2 smd circle (at -0.2 0.8 270) (size 0.21 0.21) (layers F.Cu F.Paste F.Mask))
   (pad E1 smd circle (at -0.6 0.8 270) (size 0.21 0.21) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/ucBGA-36_2.5x2.5mm_Layout6x6_P0.4mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/ucBGA-36_2.5x2.5mm_Layout6x6_P0.4mm.step
     (at (xyz 0 0 0))
     (scale (xyz 0.7 0.85 0.8))
     (rotate (xyz 0 0 0))

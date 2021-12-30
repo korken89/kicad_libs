@@ -47,7 +47,7 @@
          (xy -0.11 -0.08) (xy -0.11 0.08) (xy 0.05 0.24) (xy 0.11 0.24) (xy 0.11 -0.08)
 ) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/UDFN-4_1x1mm_P0.65mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UDFN-4_1x1mm_P0.65mm.step
     (at (xyz 0 0 0))
     (scale (xyz 0.9 0.8 1))
     (rotate (xyz 0 0 -90))
