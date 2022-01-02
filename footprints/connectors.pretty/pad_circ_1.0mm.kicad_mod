@@ -1,0 +1,15 @@
+(footprint "pad_circ_1.0mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61D191CC)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 138fd5e4-dbb2-4db4-bb03-be8016041546)
+  )
+  (fp_text value "pad_circ_1.0mm" (at 0 -0.5) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9995fc99-d83b-4586-bae7-7583dedccf1b)
+  )
+  (fp_circle (center 0 0) (end 0.6 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 79431f10-5763-4c44-a322-edee589a59f6))
+  (pad "1" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Mask") (tstamp be3a8745-b31d-4ffa-8c40-10c9b911ce9c))
+)

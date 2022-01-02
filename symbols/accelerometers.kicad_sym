@@ -118,7 +118,7 @@
         (name "DOUT_A1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 20.32 -2.54 180) (length 2.54)
+      (pin input line (at 20.32 -2.54 180) (length 2.54)
         (name "~{CS}" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
       )
