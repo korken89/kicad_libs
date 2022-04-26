@@ -1,0 +1,32 @@
+(footprint "cs90_bottom" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 461b57ca-6e57-4c93-acf1-d83265db0913)
+  )
+  (fp_text value "cs90_bottom" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 05634166-2101-4e4a-995a-2e587833c72b)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 61748964-26e8-43dd-846d-345316e4275b)
+  )
+  (fp_text user "${REFERENCE}" (at -20.553546 -39.396528 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9390d067-9aa0-446f-a739-8a2706f7f922)
+  )
+  (fp_circle (center 17.5 -35.5) (end 18.2 -35.5) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 2856880a-54cc-460a-9520-1c3ba8d9698f))
+  (fp_circle (center 17.5 35.5) (end 18.2 35.5) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 2ed370fa-93a3-4d09-aafa-1435208be822))
+  (fp_circle (center -17.5 -35.5) (end -16.8 -35.5) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 33ec3b25-5292-4037-b66e-19ad917fa8bc))
+  (fp_circle (center -17.5 0) (end -16.8 0) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 3f074834-7552-4e85-acb3-38aa7e254b03))
+  (fp_circle (center 17.5 0) (end 18.2 0) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 5822d694-f006-43d9-8a63-5adcd02937e4))
+  (fp_circle (center -17.5 35.5) (end -16.8 35.5) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 6643bbe7-2449-4b4d-a1a7-c30690faa797))
+  (model "${KIPRJMOD}/kicad_libs/3dmodels/step/CS90N-B-top.stp"
+    (offset (xyz 13.5 -31.5 -5.2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+)
