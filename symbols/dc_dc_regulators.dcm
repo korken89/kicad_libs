@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 750317234
+D Flyback Transformer, 4:1
+K pulse
+F https://www.we-online.com/catalog/datasheet/750317234.pdf
+$ENDCMP
+#
+$CMP FAN53541
+F https://www.onsemi.com/pub/Collateral/FAN53541-D.pdf
+$ENDCMP
+#
+$CMP FAN5362
+D 3Mhz, 500/750mA Synchronous Buck Regulator
+K DCDC, Buck, Step-Down, dc-dc, regulator, 3v3
+$ENDCMP
+#
+$CMP LMR36006
+F https://www.ti.com/lit/ds/symlink/lmr36006.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1610796786338
+$ENDCMP
+#
+$CMP LP2992IM5-3.3
+D DC-DC, Low Dropout regulator. Fixed output 3V3
+K DCDC, LDO, dcdc, 3V3,
+$ENDCMP
+#
+$CMP LXDC2HL
+D DCDC regulator, very small. dw1000 analog pins
+K dw1000, DCDC, small
+$ENDCMP
+#
+$CMP MAX17505
+F https://datasheets.maximintegrated.com/en/ds/MAX17505.pdf
+$ENDCMP
+#
+$CMP MAX17691A
+F https://datasheets.maximintegrated.com/en/ds/MAX17691A-MAX17691B.pdf
+$ENDCMP
+#
+$CMP MP3425
+F https://www.monolithicpower.com/pub/media/document/MP3425_r1.1.pdf
+$ENDCMP
+#
+$CMP NCV8114
+D DC-DC, Low Dropout regulator. Fixed output 3V3
+K DCDC, LDO, dcdc, 3V3,
+F https://www.onsemi.com/pub/Collateral/NCV8114-D.PDF
+$ENDCMP
+#
+#End Doc Library
