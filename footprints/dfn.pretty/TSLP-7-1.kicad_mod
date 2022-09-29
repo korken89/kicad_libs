@@ -19,7 +19,8 @@
   (fp_rect (start 0.1 0.1) (end 0.45 0.45) (layer "F.Paste") (width 0.05) (fill solid) (tstamp 6dc2bc77-d1cd-498f-85a0-10f77f98a2ec))
   (fp_rect (start -0.45 0.1) (end -0.1 0.45) (layer "F.Paste") (width 0.05) (fill solid) (tstamp c444ac14-889c-469e-b586-ce957b667544))
   (fp_line (start -0.5 0.8) (end 0.5 0.8) (layer "F.SilkS") (width 0.15) (tstamp 03b4553f-678c-469a-bbfd-2e93241ed29e))
-  (fp_line (start -1.05 -0.8) (end 0.5 -0.8) (layer "F.SilkS") (width 0.15) (tstamp 305b3567-31b4-4d2e-9288-0669b0146512))
+  (fp_line (start -0.6 -0.8) (end 0.5 -0.8) (layer "F.SilkS") (width 0.15) (tstamp 305b3567-31b4-4d2e-9288-0669b0146512))
+  (fp_circle (center -1.15 -1) (end -1.05 -1) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 459ec47f-8be3-4db9-a9ae-d83888e6926d))
   (fp_line (start -1.15 -1) (end -1.15 1) (layer "F.CrtYd") (width 0.05) (tstamp 0c9b51e2-caa8-4020-967b-154b571c9a4d))
   (fp_line (start 1.15 -1) (end 1.15 1) (layer "F.CrtYd") (width 0.05) (tstamp 80b15c44-b9e5-4987-af28-f17932433ce9))
   (fp_line (start -1.15 -1) (end 1.15 -1) (layer "F.CrtYd") (width 0.05) (tstamp fd020783-1b71-45ca-b449-00df11bd1600))
@@ -36,7 +37,7 @@
   (pad "4" smd roundrect (at 0.85 0.5) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp adfd3b82-a384-47c5-bf66-7a4c87829e0f))
   (pad "5" smd roundrect (at 0.85 0) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d5592da7-8849-45e6-9377-35f2e0b4e20d))
   (pad "6" smd roundrect (at 0.85 -0.5) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3040b8c8-729a-48ff-8753-9a69ba0141e2))
-  (pad "7" smd roundrect (at 0 0) (size 1.1 1.1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1) (tstamp c1c3336b-4b4f-4bca-bebe-1ae720abe3e1))
+  (pad "7" smd roundrect (at 0 0) (size 1.1 1.1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05) (tstamp c1c3336b-4b4f-4bca-bebe-1ae720abe3e1))
   (model "${KIPRJMOD}/kicad_libs/3dmodels/step/DFN-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1.2 0.9 0.6))
