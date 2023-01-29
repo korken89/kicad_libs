@@ -149,11 +149,11 @@
     )
     (symbol "antenna_1_1"
       (pin input line (at 5.08 0 180) (length 5.08)
-        (name "50_Ohm" (effects (font (size 1.27 1.27))))
+        (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
       (pin input line (at 5.08 2.54 180) (length 3.81)
-        (name "GND" (effects (font (size 1.27 1.27))))
+        (name "~" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
