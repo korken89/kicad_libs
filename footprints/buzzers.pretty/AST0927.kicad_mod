@@ -41,4 +41,9 @@
     (thermal_bridge_angle 45) (tstamp 1c2c03c5-2f5f-4d69-a9d2-e1db85255be3))
   (pad "2" smd roundrect (at -3.9 0) (size 2.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
     (thermal_bridge_angle 45) (tstamp 195f39a6-6436-4f2b-b3a5-80e8dd9152ab))
+  (model "${KIPRJMOD}/kicad_libs/3dmodels/step/AST0927MW.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
