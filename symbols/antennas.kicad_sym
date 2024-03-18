@@ -157,7 +157,7 @@
 		(in_bom no)
 		(on_board yes)
 		(property "Reference" "Ant"
-			(at 2.54 6.35 0)
+			(at 2.54 6.858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -205,7 +205,7 @@
 					(xy 0 0) (xy 0 5.08)
 				)
 				(stroke
-					(width 0.5)
+					(width 1)
 					(type default)
 				)
 				(fill
@@ -217,7 +217,7 @@
 					(xy 5.08 0) (xy 5.08 5.08) (xy -15.24 5.08)
 				)
 				(stroke
-					(width 0.5)
+					(width 1)
 					(type default)
 				)
 				(fill
