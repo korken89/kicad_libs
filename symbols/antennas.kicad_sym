@@ -588,6 +588,18 @@
 				)
 			)
 			(arc
+				(start -3.556 0)
+				(mid -2.5145 -2.5145)
+				(end 0 -3.556)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
 				(start 0 -5.08)
 				(mid 3.4651 -3.5395)
 				(end 4.826 0)
@@ -623,6 +635,18 @@
 					(type none)
 				)
 			)
+			(arc
+				(start 0 -3.556)
+				(mid 2.3875 -2.4619)
+				(end 3.302 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(polyline
 				(pts
 					(xy -5.08 -1.27) (xy -6.35 -1.27)
@@ -637,7 +661,7 @@
 			)
 			(polyline
 				(pts
-					(xy -3.302 1.27) (xy -6.35 1.27)
+					(xy -2.794 1.27) (xy -6.35 1.27)
 				)
 				(stroke
 					(width 0)
@@ -648,9 +672,21 @@
 				)
 			)
 			(arc
+				(start 0 3.302)
+				(mid -1.7021 2.7055)
+				(end -2.794 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
 				(start 0 3.81)
-				(mid -2.0767 3.0934)
-				(end -3.302 1.27)
+				(mid -2.5671 2.6415)
+				(end -3.556 0)
 				(stroke
 					(width 0)
 					(type default)
@@ -675,6 +711,18 @@
 				(start 0 4.826)
 				(mid -3.2855 3.3599)
 				(end -4.572 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 3.302 0)
+				(mid 2.3349 2.3349)
+				(end 0 3.302)
 				(stroke
 					(width 0)
 					(type default)
