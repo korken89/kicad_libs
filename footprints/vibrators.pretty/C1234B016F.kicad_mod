@@ -1,32 +1,210 @@
-(module C1234B016F (layer F.Cu) (tedit 5EBD2C7E)
-  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
-    (effects (font (size 0.7 0.7) (thickness 0.13)))
-  )
-  (fp_text value C1234B016F (at 0 -0.5) (layer F.Fab)
-    (effects (font (size 0.5 0.5) (thickness 0.07)))
-  )
-  (fp_line (start -2.5 6) (end -2.5 9.5) (layer F.SilkS) (width 0.2))
-  (fp_line (start -1.5 10.5) (end 1.5 10.5) (layer F.SilkS) (width 0.2))
-  (fp_line (start 2.5 9.5) (end 2.5 6) (layer F.SilkS) (width 0.2))
-  (fp_arc (start 0 0) (end 2.5 6) (angle -314.8) (layer F.SilkS) (width 0.2))
-  (fp_arc (start 1.5 9.5) (end 1.5 10.5) (angle -90) (layer F.SilkS) (width 0.2))
-  (fp_arc (start -1.5 9.5) (end -2.5 9.5) (angle -90) (layer F.SilkS) (width 0.2))
-  (fp_text user %R (at 0 1.5) (layer F.Fab)
-    (effects (font (size 0.5 0.5) (thickness 0.07)))
-  )
-  (fp_arc (start 0 0) (end 2.999999 5.999999) (angle -306.8698976) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -3 5.999999) (end -3 11) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -3 11) (end 3 11) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 3 11) (end 2.999999 5.999999) (layer F.CrtYd) (width 0.05))
-  (fp_circle (center 0 0) (end 6 0) (layer F.Fab) (width 0.12))
-  (fp_line (start -1.5 5.9) (end -1.5 9.5) (layer F.Fab) (width 0.12))
-  (fp_line (start -1.5 9.5) (end 1.5 9.5) (layer F.Fab) (width 0.12))
-  (fp_line (start 1.5 9.5) (end 1.5 5.9) (layer F.Fab) (width 0.12))
-  (fp_circle (center 0 0) (end 3 0) (layer F.Mask) (width 6.7))
-  (fp_poly (pts (xy 1 9) (xy -1 9) (xy -1 5) (xy 1 5)) (layer F.Mask) (width 2.7))
-  (model ${KIPRJMOD}/kicad_libs/3dmodels/step/C1234B016F.step
-    (offset (xyz 0 0 0.1))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 90 0))
-  )
+(footprint "C1234B016F"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0.5 0)
+		(layer "F.SilkS")
+		(uuid "9e815bd2-7678-4a29-8af7-bc4590ba1f2e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.13)
+			)
+		)
+	)
+	(property "Value" "C1234B016F"
+		(at 0 -0.5 0)
+		(layer "F.Fab")
+		(uuid "0fd5d882-3fe8-47f5-b731-a55571b6a9c2")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.07)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61c85c0a-e2c1-44c0-b16c-8d5857a4f23d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e7d4d0c-2c86-4c11-bd05-1572a22d0962")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67347450-9741-42fe-99b3-fe59f8ff51ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.825 6.075)
+		(end -1.825 8.325)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55dcc500-764a-4181-8d42-aa16f30725f8")
+	)
+	(fp_line
+		(start -1.825 8.325)
+		(end 1.825 8.325)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd6bdcad-8ff4-4105-820c-6d746db2e91a")
+	)
+	(fp_line
+		(start 1.825 8.325)
+		(end 1.825 6.075)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97aea51d-f9ec-42cd-abae-1fcbeab66fa4")
+	)
+	(fp_arc
+		(start -1.831912 6.072919)
+		(mid 0.003609 -6.343204)
+		(end 1.825 6.075)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "922b8b91-0aae-43c6-886a-92242b76ce18")
+	)
+	(fp_line
+		(start -1.65 5.925)
+		(end -1.65 8.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bbb8e5fa-105d-4895-8fdd-e0f0138de911")
+	)
+	(fp_line
+		(start -1.65 8.15)
+		(end 1.65 8.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0bfb0b7e-a82c-4c6f-936f-8050097e7773")
+	)
+	(fp_line
+		(start 1.65 8.15)
+		(end 1.65 5.925)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a6c0a8aa-8397-4773-9522-c91a861f9080")
+	)
+	(fp_arc
+		(start -1.650001 5.924999)
+		(mid 0.000001 -6.150457)
+		(end 1.65 5.925)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "12a97c4e-11a1-4e36-8d78-f6e7670ec6da")
+	)
+	(fp_line
+		(start -1.5 5.9)
+		(end -1.5 8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f71454e0-a752-4c59-acaf-b31a78d5da2e")
+	)
+	(fp_line
+		(start -1.5 8)
+		(end 1.5 8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9cb175b-4a80-4997-b683-2663b613c2f2")
+	)
+	(fp_line
+		(start 1.5 8)
+		(end 1.5 5.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bb65252e-513a-4c1f-8aa7-d52c632a0e8b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 6 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "c777b296-8985-475b-b1d8-b5075b9b87b3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.5 0)
+		(layer "F.Fab")
+		(uuid "0a5bb5c5-6452-444d-b6cb-74ff1a5bcc77")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.07)
+			)
+		)
+	)
+	(model "${KIPRJMOD}/kicad_libs/3dmodels/step/C1234B016F.step"
+		(offset
+			(xyz 0 0 0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 90 0)
+		)
+	)
 )
