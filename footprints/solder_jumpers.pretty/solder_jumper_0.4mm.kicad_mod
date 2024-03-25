@@ -1,0 +1,110 @@
+(footprint "solder_jumper_0.4mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "J101"
+		(at 0 4 0)
+		(layer "F.SilkS")
+		(uuid "bc1e232c-e125-442d-b6c0-e3e231cbf25a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "GS3"
+		(at 0 -4.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97fecf1e-5fb6-4ca1-b6ca-a1142876e94b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25d6e186-aa7c-4b51-ac9a-3a5a23480309")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c2cc724-589b-4ff5-869e-1c54e8b3c59b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cdb19228-1929-4d46-9dcb-f1ab1f98cf33")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+	(pad "" smd rect
+		(at 0 -0.275)
+		(size 0.45 1)
+		(layers "F.Mask")
+		(uuid "671e348e-d83e-4555-88c0-166dd94ae7f4")
+	)
+	(pad "1" smd custom
+		(at 0 -0.575)
+		(size 0.4 0.35)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.2 -0.174408) (xy -0.2 0.175) (xy 0 0.375) (xy 0.2 0.175) (xy 0.2 -0.174408)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "1cbd5760-e695-4a3f-87f5-200070f523fd")
+	)
+	(pad "2" smd custom
+		(at 0 0.075)
+		(size 0.4 0.25)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.2 0.125) (xy 0.2 0.125) (xy 0.2 -0.325) (xy 0 -0.125) (xy -0.2 -0.325)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "11b5e616-b69e-4487-b24a-790d059d40a1")
+	)
+)
